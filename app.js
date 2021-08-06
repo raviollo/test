@@ -1,5 +1,5 @@
 const obj = {
   auth: {
-    phoneNumber: 'Номер телифона'
+    phoneNumber: 'Номер телефона'
   }
 }
